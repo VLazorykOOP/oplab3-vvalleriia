@@ -1,0 +1,3 @@
+interface Chef {
+    void cook();
+}

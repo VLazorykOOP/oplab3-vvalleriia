@@ -1,0 +1,3 @@
+interface RestaurantState {
+    void handleRequest();
+}
